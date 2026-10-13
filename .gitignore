@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Config local / credenciais
+config.local.php
+.env
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
